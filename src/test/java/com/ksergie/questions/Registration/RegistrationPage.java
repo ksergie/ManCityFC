@@ -3,7 +3,7 @@ package com.ksergie.questions.Registration;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
-import static com.ksergie.ui.Registration.RegistrationPage.*;
+import static com.ksergie.ui.Registration.RegistrationPageUI.*;
 
 public class RegistrationPage {
 

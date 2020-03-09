@@ -15,7 +15,7 @@ import java.util.Map;
 
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 
-public class MyStepdefs {
+public class RequiredFields {
 
     @Before
     public void setTheStage(){
